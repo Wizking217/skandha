@@ -76,7 +76,7 @@ For a video tutorial on the above, you can [view this here.](https://www.youtube
     "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
   ],
   "relayer": "0x{RELAYER-PRIVATE-KEY}",
-  "beneficiary": "0x{BENEFICIARY-ADDRESS}",
+  "beneficiary": 0x03A84Edb5db46D4Bd86f3bF75DE4EFcAe917210D
   "rpcEndpoint": "https://polygon-mumbai.blockpi.network/v1/rpc/public"
 }
 ```
